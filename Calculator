@@ -1,0 +1,18 @@
+import java.util.scanner;
+
+class main{
+    public static void main(String[] args) {
+        char operator;
+        Double number1, number2, result;
+        //create a scanner class
+        //ask user to enter opertor
+        //ask users to enter number
+        //performs addtion(+) between numbers
+        //performs subtraction(-) between numbers
+        //performs subtraction(-) between numbers
+        //performs subtraction(-) between numbers
+
+
+        
+    }
+}
