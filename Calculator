@@ -7,10 +7,14 @@ class main{
         //create a scanner class
         //ask user to enter opertor
         //ask users to enter number
+        System.out.println("Enter first number");
+        number1 = input.nextDouble();
+        System.out.println("Enter second number");
+        number2 = input.nextDouble();
         //performs addtion(+) between numbers
         //performs subtraction(-) between numbers
-        //performs subtraction(-) between numbers
-        //performs subtraction(-) between numbers
+        //performs multiplication(*) between numbers
+        //performs division(/) between numbers
 
 
         
